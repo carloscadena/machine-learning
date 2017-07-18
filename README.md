@@ -26,4 +26,17 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/housing/housing.names
 14. MEDV: Median value of owner-occupied homes in $1000's
 
 ### Method
-Data was analyzed from a .csv file using nupmpy, pandas and mathplotlib. 
+Data was analyzed from a .csv file using nupmpy, pandas and mathplotlib.
+
+
+## Imperfect Data
+
+- The data I'm using can be found here [source]https://data.seattle.gov/Community/Landmarks/2mcp-vtwb
+- The data is on Landmarks in Seattle from the City of Seattle's public data
+
+### Questions posed and answered in my Jupyter Notebook
+- What percentage of the landmarks have websites?
+- How many schools are considered Landmarks?
+- How evenly dispersed are the landmarked schools?
+- How close are the landmarked libraries to the landmarked schools?
+- How many landmarks are around the Space Needle?
